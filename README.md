@@ -1,5 +1,5 @@
 # SeniorDesignProject
-Overview of what I can share related to Senior Design Project
+Project proposal and final documentation of ECE Senior Design Project
 
 [Project Proposal.pdf](https://github.com/jramey2016/SeniorDesignProject/files/9944463/Project.Proposal.pdf)
 
